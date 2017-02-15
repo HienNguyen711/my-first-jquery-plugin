@@ -1,0 +1,23 @@
+{
+  "name": "my-first-jquery-plugin",
+  "version": "1.0.0",
+  "description": "My first JQuery plugin",
+  "main": "jquery.pluginMenu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HienNguyen711/my-first-jquery-plugin.git"
+  },
+  "keywords": [
+    "jquery-plugin","ecosystem:jquery"
+  ],
+  "author": "hiennguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HienNguyen711/my-first-jquery-plugin/issues"
+  },
+
+  "homepage": "https://github.com/HienNguyen711/my-first-jquery-plugin#readme"
+}
