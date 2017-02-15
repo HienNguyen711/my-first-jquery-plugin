@@ -11,5 +11,25 @@ My first JQuery plugin
 + Install node to your local machine
 + Install from npm package
 
+# How to use it?
++ Download JQuery
++ Download this Jquery plugin
++ Basic command :
+    + This is the main function of plugin
+    $('your nav element').pluginMenu();
+    + You can change the color of DOM element
+    $("your element").pluginColor({
+     color: "your-color"
+    });
+    + Animation for your navigation
+    $("your element").hover(function () {
+    $(this).pluginAnimation({marginLeft:"30px",marginTop:0});
+     }, function () {
+    $(this).pluginAnimation({marginLeft:"10px",marginTop:0});
+     });//could be your animation options
+
 # Some demos
-<img src="1.png">
+<img src="1.png" />
+<img src="2.png" />
+
+
