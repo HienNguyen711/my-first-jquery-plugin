@@ -29,7 +29,7 @@ My first JQuery plugin
      });//could be your animation options
 
 # Some demos
-<img src="1.png" />
-<img src="2.png" />
+<img src="https://s27.postimg.org/qqgujt8wj/image.png" />
+<img src="https://s16.postimg.org/4780b2apx/image.png" />
 
 
